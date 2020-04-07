@@ -1,0 +1,2 @@
+This is atext file
+It contains details about our project
